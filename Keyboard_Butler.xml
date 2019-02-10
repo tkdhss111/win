@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KeyboardButler>
+    <Application0 No="0">
+        <AppName>グローバル設定</AppName>
+        <FileName>*.*</FileName>
+        <AppFindMode>0</AppFindMode>
+        <ShortcutKey>
+            <ShortcutKey0 No="0">
+                <SCK0_Key>28</SCK0_Key>
+                <SCK0_fsMods>0</SCK0_fsMods>
+                <SCK0_Repeat>0</SCK0_Repeat>
+                <SCK0_CapsLock>0</SCK0_CapsLock>
+                <SCK0_NumLock>0</SCK0_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK0_KeyMacro0_Mode>1</SCK0_KeyMacro0_Mode>
+                        <SCK0_KeyMacro0_Key>39</SCK0_KeyMacro0_Key>
+                        <SCK0_KeyMacro0_fsMods>0</SCK0_KeyMacro0_fsMods>
+                        <SCK0_KeyMacro0_Wait>0</SCK0_KeyMacro0_Wait>
+                        <SCK0_KeyMacro0_X>0</SCK0_KeyMacro0_X>
+                        <SCK0_KeyMacro0_Y>0</SCK0_KeyMacro0_Y>
+                        <SCK0_KeyMacro0_MouseAction>0</SCK0_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey0>
+            <ShortcutKey1 No="1">
+                <SCK1_Key>29</SCK1_Key>
+                <SCK1_fsMods>0</SCK1_fsMods>
+                <SCK1_Repeat>0</SCK1_Repeat>
+                <SCK1_CapsLock>0</SCK1_CapsLock>
+                <SCK1_NumLock>0</SCK1_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK1_KeyMacro0_Mode>1</SCK1_KeyMacro0_Mode>
+                        <SCK1_KeyMacro0_Key>37</SCK1_KeyMacro0_Key>
+                        <SCK1_KeyMacro0_fsMods>0</SCK1_KeyMacro0_fsMods>
+                        <SCK1_KeyMacro0_Wait>0</SCK1_KeyMacro0_Wait>
+                        <SCK1_KeyMacro0_X>0</SCK1_KeyMacro0_X>
+                        <SCK1_KeyMacro0_Y>0</SCK1_KeyMacro0_Y>
+                        <SCK1_KeyMacro0_MouseAction>0</SCK1_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey1>
+            <ShortcutKey2 No="2">
+                <SCK2_Key>242</SCK2_Key>
+                <SCK2_fsMods>0</SCK2_fsMods>
+                <SCK2_Repeat>0</SCK2_Repeat>
+                <SCK2_CapsLock>0</SCK2_CapsLock>
+                <SCK2_NumLock>0</SCK2_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK2_KeyMacro0_Mode>1</SCK2_KeyMacro0_Mode>
+                        <SCK2_KeyMacro0_Key>8</SCK2_KeyMacro0_Key>
+                        <SCK2_KeyMacro0_fsMods>0</SCK2_KeyMacro0_fsMods>
+                        <SCK2_KeyMacro0_Wait>0</SCK2_KeyMacro0_Wait>
+                        <SCK2_KeyMacro0_X>0</SCK2_KeyMacro0_X>
+                        <SCK2_KeyMacro0_Y>0</SCK2_KeyMacro0_Y>
+                        <SCK2_KeyMacro0_MouseAction>0</SCK2_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey2>
+            <ShortcutKey3 No="3">
+                <SCK3_Key>242</SCK3_Key>
+                <SCK3_fsMods>2</SCK3_fsMods>
+                <SCK3_Repeat>0</SCK3_Repeat>
+                <SCK3_CapsLock>0</SCK3_CapsLock>
+                <SCK3_NumLock>0</SCK3_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK3_KeyMacro0_Mode>1</SCK3_KeyMacro0_Mode>
+                        <SCK3_KeyMacro0_Key>46</SCK3_KeyMacro0_Key>
+                        <SCK3_KeyMacro0_fsMods>0</SCK3_KeyMacro0_fsMods>
+                        <SCK3_KeyMacro0_Wait>0</SCK3_KeyMacro0_Wait>
+                        <SCK3_KeyMacro0_X>0</SCK3_KeyMacro0_X>
+                        <SCK3_KeyMacro0_Y>0</SCK3_KeyMacro0_Y>
+                        <SCK3_KeyMacro0_MouseAction>0</SCK3_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey3>
+            <ShortcutKey4 No="4">
+                <SCK4_Key>28</SCK4_Key>
+                <SCK4_fsMods>2</SCK4_fsMods>
+                <SCK4_Repeat>0</SCK4_Repeat>
+                <SCK4_CapsLock>0</SCK4_CapsLock>
+                <SCK4_NumLock>0</SCK4_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK4_KeyMacro0_Mode>1</SCK4_KeyMacro0_Mode>
+                        <SCK4_KeyMacro0_Key>40</SCK4_KeyMacro0_Key>
+                        <SCK4_KeyMacro0_fsMods>0</SCK4_KeyMacro0_fsMods>
+                        <SCK4_KeyMacro0_Wait>0</SCK4_KeyMacro0_Wait>
+                        <SCK4_KeyMacro0_X>0</SCK4_KeyMacro0_X>
+                        <SCK4_KeyMacro0_Y>0</SCK4_KeyMacro0_Y>
+                        <SCK4_KeyMacro0_MouseAction>0</SCK4_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey4>
+            <ShortcutKey5 No="5">
+                <SCK5_Key>29</SCK5_Key>
+                <SCK5_fsMods>2</SCK5_fsMods>
+                <SCK5_Repeat>0</SCK5_Repeat>
+                <SCK5_CapsLock>0</SCK5_CapsLock>
+                <SCK5_NumLock>0</SCK5_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK5_KeyMacro0_Mode>1</SCK5_KeyMacro0_Mode>
+                        <SCK5_KeyMacro0_Key>38</SCK5_KeyMacro0_Key>
+                        <SCK5_KeyMacro0_fsMods>0</SCK5_KeyMacro0_fsMods>
+                        <SCK5_KeyMacro0_Wait>0</SCK5_KeyMacro0_Wait>
+                        <SCK5_KeyMacro0_X>0</SCK5_KeyMacro0_X>
+                        <SCK5_KeyMacro0_Y>0</SCK5_KeyMacro0_Y>
+                        <SCK5_KeyMacro0_MouseAction>0</SCK5_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey5>
+            <ShortcutKey6 No="6">
+                <SCK6_Key>29</SCK6_Key>
+                <SCK6_fsMods>4</SCK6_fsMods>
+                <SCK6_Repeat>0</SCK6_Repeat>
+                <SCK6_CapsLock>0</SCK6_CapsLock>
+                <SCK6_NumLock>0</SCK6_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK6_KeyMacro0_Mode>1</SCK6_KeyMacro0_Mode>
+                        <SCK6_KeyMacro0_Key>37</SCK6_KeyMacro0_Key>
+                        <SCK6_KeyMacro0_fsMods>4</SCK6_KeyMacro0_fsMods>
+                        <SCK6_KeyMacro0_Wait>0</SCK6_KeyMacro0_Wait>
+                        <SCK6_KeyMacro0_X>0</SCK6_KeyMacro0_X>
+                        <SCK6_KeyMacro0_Y>0</SCK6_KeyMacro0_Y>
+                        <SCK6_KeyMacro0_MouseAction>0</SCK6_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey6>
+            <ShortcutKey7 No="7">
+                <SCK7_Key>28</SCK7_Key>
+                <SCK7_fsMods>4</SCK7_fsMods>
+                <SCK7_Repeat>0</SCK7_Repeat>
+                <SCK7_CapsLock>0</SCK7_CapsLock>
+                <SCK7_NumLock>0</SCK7_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK7_KeyMacro0_Mode>1</SCK7_KeyMacro0_Mode>
+                        <SCK7_KeyMacro0_Key>39</SCK7_KeyMacro0_Key>
+                        <SCK7_KeyMacro0_fsMods>4</SCK7_KeyMacro0_fsMods>
+                        <SCK7_KeyMacro0_Wait>0</SCK7_KeyMacro0_Wait>
+                        <SCK7_KeyMacro0_X>0</SCK7_KeyMacro0_X>
+                        <SCK7_KeyMacro0_Y>0</SCK7_KeyMacro0_Y>
+                        <SCK7_KeyMacro0_MouseAction>0</SCK7_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey7>
+            <ShortcutKey8 No="8">
+                <SCK8_Key>29</SCK8_Key>
+                <SCK8_fsMods>6</SCK8_fsMods>
+                <SCK8_Repeat>0</SCK8_Repeat>
+                <SCK8_CapsLock>0</SCK8_CapsLock>
+                <SCK8_NumLock>0</SCK8_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK8_KeyMacro0_Mode>1</SCK8_KeyMacro0_Mode>
+                        <SCK8_KeyMacro0_Key>38</SCK8_KeyMacro0_Key>
+                        <SCK8_KeyMacro0_fsMods>4</SCK8_KeyMacro0_fsMods>
+                        <SCK8_KeyMacro0_Wait>0</SCK8_KeyMacro0_Wait>
+                        <SCK8_KeyMacro0_X>0</SCK8_KeyMacro0_X>
+                        <SCK8_KeyMacro0_Y>0</SCK8_KeyMacro0_Y>
+                        <SCK8_KeyMacro0_MouseAction>0</SCK8_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey8>
+            <ShortcutKey9 No="9">
+                <SCK9_Key>28</SCK9_Key>
+                <SCK9_fsMods>6</SCK9_fsMods>
+                <SCK9_Repeat>0</SCK9_Repeat>
+                <SCK9_CapsLock>0</SCK9_CapsLock>
+                <SCK9_NumLock>0</SCK9_NumLock>
+                <KeyMacro>
+                    <KeyMacro0 No="0">
+                        <SCK9_KeyMacro0_Mode>1</SCK9_KeyMacro0_Mode>
+                        <SCK9_KeyMacro0_Key>40</SCK9_KeyMacro0_Key>
+                        <SCK9_KeyMacro0_fsMods>4</SCK9_KeyMacro0_fsMods>
+                        <SCK9_KeyMacro0_Wait>0</SCK9_KeyMacro0_Wait>
+                        <SCK9_KeyMacro0_X>0</SCK9_KeyMacro0_X>
+                        <SCK9_KeyMacro0_Y>0</SCK9_KeyMacro0_Y>
+                        <SCK9_KeyMacro0_MouseAction>0</SCK9_KeyMacro0_MouseAction>
+                    </KeyMacro0>
+                </KeyMacro>
+            </ShortcutKey9>
+        </ShortcutKey>
+    </Application0>
+</KeyboardButler>
